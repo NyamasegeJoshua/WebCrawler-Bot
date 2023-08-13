@@ -32,12 +32,11 @@ Welcome to **JoshBot**, an advanced virtual assistant that can help you with var
    ```sh
    git clone https://github.com/NyamasegeJoshua/WebCrawler-Bot.git
    cd your-chatbot-repo
-2. Install the required dependencies:
-    pip install -r requirements.txt
 ## Usage
-1. Run the chatbot app:
-    streamlit run stream.py
-2. Interact with the chatbot in your web browser. Enter your queries and receive responses.
+1. Install the required dependencies:
+   ```sh
+   pip install -r requirements.txt
+   streamlit run stream.py
 
 ## Contributing
 Contributions are welcome! If you find any issues or want to enhance the chatbot's capabilities, feel free to create a pull request or open an issue.
