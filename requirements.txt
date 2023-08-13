@@ -1,0 +1,6 @@
+tk
+pyttsx3
+beautifulsoup4
+SpeechRecognition
+PyAudio
+streamlit
